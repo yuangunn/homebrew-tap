@@ -9,7 +9,7 @@ class ImageTriggerClicker < Formula
   desc "Clicks preset coordinates when a given image appears on screen"
   homepage "https://github.com/yuangunn/image-trigger-clicker"
   url "https://github.com/yuangunn/image-trigger-clicker/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "7b4590cfe5688371e23715970b25867e825e890b2fb5092836cb8e6b9cfc253b"
   license "MIT"
   head "https://github.com/yuangunn/image-trigger-clicker.git", branch: "main"
 
